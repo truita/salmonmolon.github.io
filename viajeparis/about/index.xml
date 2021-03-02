@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acerca de on Viaje a París</title>
-    <link>http://salmorejo.nex.sh/about/</link>
+    <link>https://salmonmolon.github.io/viajeparis/about/</link>
     <description>Recent content in Acerca de on Viaje a París</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 19 Feb 2021 17:09:50 +0000</lastBuildDate><atom:link href="http://salmorejo.nex.sh/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 17:09:50 +0000</lastBuildDate><atom:link href="https://salmonmolon.github.io/viajeparis/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
